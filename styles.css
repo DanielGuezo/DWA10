@@ -33,7 +33,7 @@
   
   }
   .counter__button {
-    color: rgb(23, 178, 23);
+    color: Blue;
     width: 100%;
     height: 15rem;
     padding-left: 10rem;
@@ -66,5 +66,5 @@
     display: flex;
     justify-content: center;
     font-size: 5rem;
-    background-color: rgb(53, 50, 50);
+    background-color:gray;
   }
